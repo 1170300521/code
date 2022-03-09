@@ -1,6 +1,6 @@
 ## About
 
-This is the supplementary materials for CVPR 2022 submission 6057, `Boosting Visual Grounding by Enforcing Alignment and Reasoning in Vision-and-Language Pretraining`.
+This is the supplementary materials for ECCV 2022 submission 4898, `Boosting Visual Grounding by Enforcing Alignment and Reasoning in Vision-and-Language Pretraining`.
 
 There is one directory in the supplementary materials.
 
